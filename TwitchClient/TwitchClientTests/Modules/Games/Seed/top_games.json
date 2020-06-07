@@ -1,0 +1,235 @@
+{
+    "_total": 3168,
+    "top": [
+        {
+            "game": {
+                "name": "Just Chatting",
+                "_id": 509658,
+                "giantbomb_id": 0,
+                "box": {
+                    "large": "https://static-cdn.jtvnw.net/ttv-boxart/Just%20Chatting-272x380.jpg",
+                    "medium": "https://static-cdn.jtvnw.net/ttv-boxart/Just%20Chatting-136x190.jpg",
+                    "small": "https://static-cdn.jtvnw.net/ttv-boxart/Just%20Chatting-52x72.jpg",
+                    "template": "https://static-cdn.jtvnw.net/ttv-boxart/Just%20Chatting-{width}x{height}.jpg"
+                },
+                "logo": {
+                    "large": "https://static-cdn.jtvnw.net/ttv-logoart/Just%20Chatting-240x144.jpg",
+                    "medium": "https://static-cdn.jtvnw.net/ttv-logoart/Just%20Chatting-120x72.jpg",
+                    "small": "https://static-cdn.jtvnw.net/ttv-logoart/Just%20Chatting-60x36.jpg",
+                    "template": "https://static-cdn.jtvnw.net/ttv-logoart/Just%20Chatting-{width}x{height}.jpg"
+                },
+                "localized_name": "Just Chatting",
+                "locale": "en-us"
+            },
+            "viewers": 501237,
+            "channels": 4126
+        },
+        {
+            "game": {
+                "name": "Fortnite",
+                "_id": 33214,
+                "giantbomb_id": 37030,
+                "box": {
+                    "large": "https://static-cdn.jtvnw.net/ttv-boxart/Fortnite-272x380.jpg",
+                    "medium": "https://static-cdn.jtvnw.net/ttv-boxart/Fortnite-136x190.jpg",
+                    "small": "https://static-cdn.jtvnw.net/ttv-boxart/Fortnite-52x72.jpg",
+                    "template": "https://static-cdn.jtvnw.net/ttv-boxart/Fortnite-{width}x{height}.jpg"
+                },
+                "logo": {
+                    "large": "https://static-cdn.jtvnw.net/ttv-logoart/Fortnite-240x144.jpg",
+                    "medium": "https://static-cdn.jtvnw.net/ttv-logoart/Fortnite-120x72.jpg",
+                    "small": "https://static-cdn.jtvnw.net/ttv-logoart/Fortnite-60x36.jpg",
+                    "template": "https://static-cdn.jtvnw.net/ttv-logoart/Fortnite-{width}x{height}.jpg"
+                },
+                "localized_name": "Fortnite",
+                "locale": "en-us"
+            },
+            "viewers": 318368,
+            "channels": 17320
+        },
+        {
+            "game": {
+                "name": "Grand Theft Auto V",
+                "_id": 32982,
+                "giantbomb_id": 36765,
+                "box": {
+                    "large": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Theft%20Auto%20V-272x380.jpg",
+                    "medium": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Theft%20Auto%20V-136x190.jpg",
+                    "small": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Theft%20Auto%20V-52x72.jpg",
+                    "template": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Theft%20Auto%20V-{width}x{height}.jpg"
+                },
+                "logo": {
+                    "large": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Theft%20Auto%20V-240x144.jpg",
+                    "medium": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Theft%20Auto%20V-120x72.jpg",
+                    "small": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Theft%20Auto%20V-60x36.jpg",
+                    "template": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Theft%20Auto%20V-{width}x{height}.jpg"
+                },
+                "localized_name": "Grand Theft Auto V",
+                "locale": "en-us"
+            },
+            "viewers": 251846,
+            "channels": 5478
+        },
+        {
+            "game": {
+                "name": "Call of Duty: Modern Warfare",
+                "_id": 512710,
+                "giantbomb_id": 73517,
+                "box": {
+                    "large": "https://static-cdn.jtvnw.net/ttv-boxart/./Call%20of%20Duty:%20Modern%20Warfare-272x380.jpg",
+                    "medium": "https://static-cdn.jtvnw.net/ttv-boxart/./Call%20of%20Duty:%20Modern%20Warfare-136x190.jpg",
+                    "small": "https://static-cdn.jtvnw.net/ttv-boxart/./Call%20of%20Duty:%20Modern%20Warfare-52x72.jpg",
+                    "template": "https://static-cdn.jtvnw.net/ttv-boxart/./Call%20of%20Duty:%20Modern%20Warfare-{width}x{height}.jpg"
+                },
+                "logo": {
+                    "large": "https://static-cdn.jtvnw.net/ttv-logoart/./Call%20of%20Duty:%20Modern%20Warfare-240x144.jpg",
+                    "medium": "https://static-cdn.jtvnw.net/ttv-logoart/./Call%20of%20Duty:%20Modern%20Warfare-120x72.jpg",
+                    "small": "https://static-cdn.jtvnw.net/ttv-logoart/./Call%20of%20Duty:%20Modern%20Warfare-60x36.jpg",
+                    "template": "https://static-cdn.jtvnw.net/ttv-logoart/./Call%20of%20Duty:%20Modern%20Warfare-{width}x{height}.jpg"
+                },
+                "localized_name": "Call of Duty: Modern Warfare",
+                "locale": "en-us"
+            },
+            "viewers": 197915,
+            "channels": 11824
+        },
+        {
+            "game": {
+                "name": "VALORANT",
+                "_id": 516575,
+                "giantbomb_id": 77445,
+                "box": {
+                    "large": "https://static-cdn.jtvnw.net/ttv-boxart/VALORANT-272x380.jpg",
+                    "medium": "https://static-cdn.jtvnw.net/ttv-boxart/VALORANT-136x190.jpg",
+                    "small": "https://static-cdn.jtvnw.net/ttv-boxart/VALORANT-52x72.jpg",
+                    "template": "https://static-cdn.jtvnw.net/ttv-boxart/VALORANT-{width}x{height}.jpg"
+                },
+                "logo": {
+                    "large": "https://static-cdn.jtvnw.net/ttv-logoart/VALORANT-240x144.jpg",
+                    "medium": "https://static-cdn.jtvnw.net/ttv-logoart/VALORANT-120x72.jpg",
+                    "small": "https://static-cdn.jtvnw.net/ttv-logoart/VALORANT-60x36.jpg",
+                    "template": "https://static-cdn.jtvnw.net/ttv-logoart/VALORANT-{width}x{height}.jpg"
+                },
+                "localized_name": "VALORANT",
+                "locale": "en-us"
+            },
+            "viewers": 179852,
+            "channels": 9313
+        },
+        {
+            "game": {
+                "name": "League of Legends",
+                "_id": 21779,
+                "giantbomb_id": 24024,
+                "box": {
+                    "large": "https://static-cdn.jtvnw.net/ttv-boxart/League%20of%20Legends-272x380.jpg",
+                    "medium": "https://static-cdn.jtvnw.net/ttv-boxart/League%20of%20Legends-136x190.jpg",
+                    "small": "https://static-cdn.jtvnw.net/ttv-boxart/League%20of%20Legends-52x72.jpg",
+                    "template": "https://static-cdn.jtvnw.net/ttv-boxart/League%20of%20Legends-{width}x{height}.jpg"
+                },
+                "logo": {
+                    "large": "https://static-cdn.jtvnw.net/ttv-logoart/League%20of%20Legends-240x144.jpg",
+                    "medium": "https://static-cdn.jtvnw.net/ttv-logoart/League%20of%20Legends-120x72.jpg",
+                    "small": "https://static-cdn.jtvnw.net/ttv-logoart/League%20of%20Legends-60x36.jpg",
+                    "template": "https://static-cdn.jtvnw.net/ttv-logoart/League%20of%20Legends-{width}x{height}.jpg"
+                },
+                "localized_name": "League of Legends",
+                "locale": "en-us"
+            },
+            "viewers": 177331,
+            "channels": 5834
+        },
+        {
+            "game": {
+                "name": "Counter-Strike: Global Offensive",
+                "_id": 32399,
+                "giantbomb_id": 36113,
+                "box": {
+                    "large": "https://static-cdn.jtvnw.net/ttv-boxart/./Counter-Strike:%20Global%20Offensive-272x380.jpg",
+                    "medium": "https://static-cdn.jtvnw.net/ttv-boxart/./Counter-Strike:%20Global%20Offensive-136x190.jpg",
+                    "small": "https://static-cdn.jtvnw.net/ttv-boxart/./Counter-Strike:%20Global%20Offensive-52x72.jpg",
+                    "template": "https://static-cdn.jtvnw.net/ttv-boxart/./Counter-Strike:%20Global%20Offensive-{width}x{height}.jpg"
+                },
+                "logo": {
+                    "large": "https://static-cdn.jtvnw.net/ttv-logoart/./Counter-Strike:%20Global%20Offensive-240x144.jpg",
+                    "medium": "https://static-cdn.jtvnw.net/ttv-logoart/./Counter-Strike:%20Global%20Offensive-120x72.jpg",
+                    "small": "https://static-cdn.jtvnw.net/ttv-logoart/./Counter-Strike:%20Global%20Offensive-60x36.jpg",
+                    "template": "https://static-cdn.jtvnw.net/ttv-logoart/./Counter-Strike:%20Global%20Offensive-{width}x{height}.jpg"
+                },
+                "localized_name": "Counter-Strike: Global Offensive",
+                "locale": "en-us"
+            },
+            "viewers": 131244,
+            "channels": 3279
+        },
+        {
+            "game": {
+                "name": "Minecraft",
+                "_id": 27471,
+                "giantbomb_id": 30475,
+                "box": {
+                    "large": "https://static-cdn.jtvnw.net/ttv-boxart/Minecraft-272x380.jpg",
+                    "medium": "https://static-cdn.jtvnw.net/ttv-boxart/Minecraft-136x190.jpg",
+                    "small": "https://static-cdn.jtvnw.net/ttv-boxart/Minecraft-52x72.jpg",
+                    "template": "https://static-cdn.jtvnw.net/ttv-boxart/Minecraft-{width}x{height}.jpg"
+                },
+                "logo": {
+                    "large": "https://static-cdn.jtvnw.net/ttv-logoart/Minecraft-240x144.jpg",
+                    "medium": "https://static-cdn.jtvnw.net/ttv-logoart/Minecraft-120x72.jpg",
+                    "small": "https://static-cdn.jtvnw.net/ttv-logoart/Minecraft-60x36.jpg",
+                    "template": "https://static-cdn.jtvnw.net/ttv-logoart/Minecraft-{width}x{height}.jpg"
+                },
+                "localized_name": "Minecraft",
+                "locale": "en-us"
+            },
+            "viewers": 129751,
+            "channels": 3016
+        },
+        {
+            "game": {
+                "name": "FIFA 20",
+                "_id": 512804,
+                "giantbomb_id": 73601,
+                "box": {
+                    "large": "https://static-cdn.jtvnw.net/ttv-boxart/FIFA%2020-272x380.jpg",
+                    "medium": "https://static-cdn.jtvnw.net/ttv-boxart/FIFA%2020-136x190.jpg",
+                    "small": "https://static-cdn.jtvnw.net/ttv-boxart/FIFA%2020-52x72.jpg",
+                    "template": "https://static-cdn.jtvnw.net/ttv-boxart/FIFA%2020-{width}x{height}.jpg"
+                },
+                "logo": {
+                    "large": "https://static-cdn.jtvnw.net/ttv-logoart/FIFA%2020-240x144.jpg",
+                    "medium": "https://static-cdn.jtvnw.net/ttv-logoart/FIFA%2020-120x72.jpg",
+                    "small": "https://static-cdn.jtvnw.net/ttv-logoart/FIFA%2020-60x36.jpg",
+                    "template": "https://static-cdn.jtvnw.net/ttv-logoart/FIFA%2020-{width}x{height}.jpg"
+                },
+                "localized_name": "FIFA 20",
+                "locale": "en-us"
+            },
+            "viewers": 115933,
+            "channels": 3059
+        },
+        {
+            "game": {
+                "name": "World of Warcraft",
+                "_id": 18122,
+                "giantbomb_id": 19783,
+                "box": {
+                    "large": "https://static-cdn.jtvnw.net/ttv-boxart/World%20of%20Warcraft-272x380.jpg",
+                    "medium": "https://static-cdn.jtvnw.net/ttv-boxart/World%20of%20Warcraft-136x190.jpg",
+                    "small": "https://static-cdn.jtvnw.net/ttv-boxart/World%20of%20Warcraft-52x72.jpg",
+                    "template": "https://static-cdn.jtvnw.net/ttv-boxart/World%20of%20Warcraft-{width}x{height}.jpg"
+                },
+                "logo": {
+                    "large": "https://static-cdn.jtvnw.net/ttv-logoart/World%20of%20Warcraft-240x144.jpg",
+                    "medium": "https://static-cdn.jtvnw.net/ttv-logoart/World%20of%20Warcraft-120x72.jpg",
+                    "small": "https://static-cdn.jtvnw.net/ttv-logoart/World%20of%20Warcraft-60x36.jpg",
+                    "template": "https://static-cdn.jtvnw.net/ttv-logoart/World%20of%20Warcraft-{width}x{height}.jpg"
+                },
+                "localized_name": "World of Warcraft",
+                "locale": "en-us"
+            },
+            "viewers": 99787,
+            "channels": 2658
+        }
+    ]
+}
