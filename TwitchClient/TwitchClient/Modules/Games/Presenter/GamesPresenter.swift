@@ -8,7 +8,7 @@
 
 import Foundation
 
-class GamesPresenter: GamesPresenterProtocol {
+final class GamesPresenter: GamesPresenterProtocol {
     
     private var gameService: GamesServiceProtocol
     private weak var controller: GamesViewProtocol?

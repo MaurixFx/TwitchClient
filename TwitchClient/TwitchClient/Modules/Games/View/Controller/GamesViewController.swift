@@ -10,7 +10,8 @@ import UIKit
 
 final class GamesViewController: UIViewController, GamesViewProtocol {
     
-    // MARK: - Create GamesView
+    
+    // MARK: Create GamesView
     lazy var gamesView: GamesView = {
         return GamesView(frame: UIScreen.main.bounds)
     }()
@@ -19,7 +20,7 @@ final class GamesViewController: UIViewController, GamesViewProtocol {
     var topGames: [TopGames] = []
     var presenter: GamesPresenterProtocol?
     
-    // MARK: - Init
+    // MARK: Init
     init(gamesConfigurator: GamesConfigurator = GamesConfigurator()) {
         super.init(nibName: nil, bundle: nil)
         gamesConfigurator.configure(viewController: self)
@@ -65,6 +66,7 @@ final class GamesViewController: UIViewController, GamesViewProtocol {
     }
     
 }
+
 
 // MARK: - Extension UICollectionView
 extension GamesViewController: UICollectionViewDataSource, UICollectionViewDelegate, UICollectionViewDelegateFlowLayout {

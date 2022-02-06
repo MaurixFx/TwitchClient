@@ -8,14 +8,16 @@
 
 import Foundation
 
-class GamesService: GamesServiceProtocol {
+final class GamesService: GamesServiceProtocol {
     
     var apiClient: ApiClient
     
+    // MARK: - Init
     init(apiClient: ApiClient) {
         self.apiClient = apiClient
     }
     
+    // MARK: - Fetch Top Games
     func fetchTopGames(url: String, completionHandler: @escaping (Result<TopGamesResponse, ResponseAlert>) -> Void) {
         
         apiClient.request(url: url) { result in

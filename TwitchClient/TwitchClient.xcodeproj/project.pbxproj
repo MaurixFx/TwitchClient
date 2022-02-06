@@ -17,8 +17,6 @@
 		F2A92857247CA4C10063975B /* GamesCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2A92856247CA4C10063975B /* GamesCollectionViewCell.swift */; };
 		F2A92859247CC0950063975B /* ImageLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2A92858247CC0950063975B /* ImageLoader.swift */; };
 		F2C3F01B24719C1C00929F3C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2C3F01A24719C1C00929F3C /* AppDelegate.swift */; };
-		F2C3F01F24719C1C00929F3C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2C3F01E24719C1C00929F3C /* ViewController.swift */; };
-		F2C3F02224719C1C00929F3C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F2C3F02024719C1C00929F3C /* Main.storyboard */; };
 		F2C3F02424719C2200929F3C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F2C3F02324719C2200929F3C /* Assets.xcassets */; };
 		F2C3F02724719C2200929F3C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F2C3F02524719C2200929F3C /* LaunchScreen.storyboard */; };
 		F2C3F03D24719C2200929F3C /* TwitchClientUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2C3F03C24719C2200929F3C /* TwitchClientUITests.swift */; };
@@ -70,8 +68,6 @@
 		F2A92858247CC0950063975B /* ImageLoader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageLoader.swift; sourceTree = "<group>"; };
 		F2C3F01724719C1C00929F3C /* TwitchClient.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TwitchClient.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F2C3F01A24719C1C00929F3C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		F2C3F01E24719C1C00929F3C /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		F2C3F02124719C1C00929F3C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		F2C3F02324719C2200929F3C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F2C3F02624719C2200929F3C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F2C3F02824719C2200929F3C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -215,8 +211,6 @@
 				F2C3F0722472008C00929F3C /* App */,
 				F2C3F0552471C7D300929F3C /* APIService */,
 				F2C3F04A2471C3F900929F3C /* Modules */,
-				F2C3F01E24719C1C00929F3C /* ViewController.swift */,
-				F2C3F02024719C1C00929F3C /* Main.storyboard */,
 				F2C3F02324719C2200929F3C /* Assets.xcassets */,
 				F2C3F02524719C2200929F3C /* LaunchScreen.storyboard */,
 				F2C3F02824719C2200929F3C /* Info.plist */,
@@ -455,7 +449,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1140;
-				LastUpgradeCheck = 1140;
+				LastUpgradeCheck = 1320;
 				ORGANIZATIONNAME = "Mauricio Figueroa olivares";
 				TargetAttributes = {
 					F2C3F01624719C1C00929F3C = {
@@ -498,7 +492,6 @@
 			files = (
 				F2C3F02724719C2200929F3C /* LaunchScreen.storyboard in Resources */,
 				F2C3F02424719C2200929F3C /* Assets.xcassets in Resources */,
-				F2C3F02224719C1C00929F3C /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -526,7 +519,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				F2A92849247B23630063975B /* GamesViewController.swift in Sources */,
-				F2C3F01F24719C1C00929F3C /* ViewController.swift in Sources */,
 				F2A9284C247B295C0063975B /* GamesConfigurator.swift in Sources */,
 				F2A92857247CA4C10063975B /* GamesCollectionViewCell.swift in Sources */,
 				F2C3F0652471CE9E00929F3C /* Enum.swift in Sources */,
@@ -585,14 +577,6 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		F2C3F02024719C1C00929F3C /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				F2C3F02124719C1C00929F3C /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
 		F2C3F02524719C2200929F3C /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
@@ -630,6 +614,7 @@
 				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
 				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
@@ -690,6 +675,7 @@
 				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
 				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;

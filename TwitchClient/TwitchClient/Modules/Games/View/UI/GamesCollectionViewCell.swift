@@ -9,7 +9,7 @@
 import UIKit
 
 final class GamesCollectionViewCell: UICollectionViewCell {
-    
+
     // MARK: Create UILabels
     let nameLabel: UILabel = {
         let label = UILabel()

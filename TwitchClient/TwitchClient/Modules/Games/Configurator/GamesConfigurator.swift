@@ -8,7 +8,7 @@
 
 import Foundation
 
-class GamesConfigurator {
+final class GamesConfigurator {
     
     func configure(viewController: GamesViewController) {
         let gamesService = GamesService(apiClient: ApiClient())
